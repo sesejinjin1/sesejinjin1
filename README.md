@@ -7,7 +7,7 @@
         <h2 style="color: #282d33;"> 🤗 협업과 소통을 중요시 여기는 개발자 정세진 입니다 🤗 </h2>  
      <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖교육 및 연수사항</h2>
-        <li>기간 : 2023.12.04 ~ 2024.06.07</li>
+        <li>기간 : 2024.6.17 ~ 2024.12.23</li>
         <li>교육과정 : MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발</li>
         <li>교육기관 : 더조은 컴퓨터아카데미</li>
         <li>교육내용 : <br />
